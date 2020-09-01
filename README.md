@@ -1,3 +1,5 @@
+Emojifier
+
 This repo contains the code for Emojifier, which is a sentiment analysis full-stack web app that allows a user to input an image URL of a person and replaces their face with an apropriate emoji based on their facial expression.
 
 Demo image link:
